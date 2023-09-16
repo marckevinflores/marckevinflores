@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to play games and travel
 - 📫 How to reach me **marckevinflores@gmail.com**
 
-<hr/>
+<!-- <hr/>
 <h3 align="left">Current Work:</h3>
 <span><b>Position:</b>  Front-end developer</span>
 <h4>Tech Stacks I worked on:</h4>
@@ -16,7 +16,7 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-<hr/>
+<hr/> -->
 
 <h3 align="left">My languages and tools that I know:</h3>
 <h4>Frontend:</h4>
