@@ -5,7 +5,7 @@
 - 🌱 Always eager to learn new things especially in Javascript frameworks and tools
 - 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
 - ⚡ Fun fact: I love to play games and travel
-- 📫 How to reach me **marckevinflores@gmail.com**
+- 📫 How to reach me **marc@kevinflor.es**
 
 <!-- <hr/>
 <h3 align="left">Current Work:</h3>
