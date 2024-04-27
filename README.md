@@ -4,7 +4,7 @@
 
 - 🌱 Always eager to learn new things especially in Javascript frameworks and tools
 - 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
-- ⚡ Fun fact: I love to play games and travel
+- ⚡ Fun fact: I love to play games, travel, reading, and watch latest trends
 - 📫 How to reach me **marc@kevinflor.es**
 
 <!-- <hr/>
@@ -19,12 +19,40 @@
 <hr/> -->
 
 <h4 align="left">Web Development:</h4>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/vue.svg" alt="vuejs" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxtjs" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+<p align="left"> <span> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxtjs" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 <br/>
-<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/><img style="background-color: white; border-radius: 50%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollographql" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollographql" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
 </p>
  <h4>Cross-platform App Development:</h4>
-<p align="left"><img src="https://cdn.svgporn.com/logos/ionic-icon.svg" alt="ionic" width="40" height="40"/><img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" width="40" height="40"/> <img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/ionic-icon.svg" alt="ionic" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo" width="40" height="40"/>
   </p>
 <hr/>
 <h3>Connect with me:</h3>
