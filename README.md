@@ -19,7 +19,7 @@
 <hr/> -->
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
-<img src="./icon/html5.svg" alt="html5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
@@ -38,11 +38,11 @@
 <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="35" height="35"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
-<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollographql" width="35" height="35"/>
+<img src="https://discord.do/wp-content/uploads/2024/04/Apollo-GraphQL.jpg" alt="apollographql" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
 </p>
  <h4>Cross-platform App Development:</h4>
@@ -51,7 +51,7 @@
 <img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
-<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo" width="35" height="35"/>
+<img src="https://bitrise-steplib-collection.s3.amazonaws.com/steps/expo-detach/assets/icon.svg" alt="expo" width="40" height="40"/>
   </p>
 <hr/>
 <h3>Connect with me:</h3>
