@@ -19,7 +19,7 @@
 <hr/> -->
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="./icon/html5.svg" alt="html5" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
