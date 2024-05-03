@@ -17,58 +17,44 @@
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" /> </a>
 </p>
 <hr/> -->
-<style>
-  img{
-    width: 40px;
-    height: 40px;
-    margin: 5px;
-  }
-  .rounded-bg-white{
-    background-color: #fff;
-    border-radius: 50%;
-    padding: 3px;
-    width: 35px;
-    height: 35px;
-  }
-</style>
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" />
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" />
-<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" />
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" />
-<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vuejs" />
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" />
-<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" />
-<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" />
-<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxtjs" />
-<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxtjs" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 <br/>
-<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" />
-<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" />
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" />
-<img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" />
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" />
-<img class="rounded-bg-white" src="https://cdn.svgporn.com/logos/express.svg" alt="express" />
-<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" />
-<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" />
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" />
-<img class="rounded-bg-white" src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollographql" />
-<img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" />
+<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/express.svg" alt="express" width="35" height="35"/>
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
+<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/apollostack.svg" alt="apollographql" width="35" height="35"/>
+<img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
 </p>
  <h4>Cross-platform App Development:</h4>
 <p align="left">
-<img src="https://cdn.svgporn.com/logos/ionic-icon.svg" alt="ionic" />
-<img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" />
-<img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" />
-<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" />
-<img class="rounded-bg-white" src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo" />
+<img src="https://cdn.svgporn.com/logos/ionic-icon.svg" alt="ionic" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
+<img style="background-color: #fff; border-radius: 50%; padding: 3px;" src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo" width="35" height="35"/>
   </p>
 <hr/>
 <h3>Connect with me:</h3>
 
-<a href="https://kevinflor.es" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" /> </a>
-<a href="https://linkedin.com/in/marckevinflores" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" /> </a>
+<a href="https://kevinflor.es" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/marckevinflores" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
