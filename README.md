@@ -39,6 +39,7 @@
 <img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
